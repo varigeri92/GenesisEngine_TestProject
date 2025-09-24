@@ -1,0 +1,10 @@
+asset_guid: 17383686310462052838
+asset_name: basicmesh
+file_path: basicmesh.glb
+sub_meshes:
+  - mesh_index: 0
+    mesh_guid: 8900716135141258393
+  - mesh_index: 1
+    mesh_guid: 1525177355835433652
+  - mesh_index: 2
+    mesh_guid: 3727738018224517516

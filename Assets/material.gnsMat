@@ -1,0 +1,11 @@
+asset_guid: 16768754965328157207
+vertex_shader: Shaders\colored_triangle_mesh.vert.spv
+fragment_shader: Shaders\tex_image.frag.spv
+albedo_color: [1, 1, 1, 1]
+metallic_roughness_AO: [0, 0.5, 1, 1]
+textures:
+  - 14905071471194202630
+  - 14252998487151846989
+  - 14905071471194202630
+  - 14905071471194202630
+  - 14905071471194202630

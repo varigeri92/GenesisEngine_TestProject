@@ -1,0 +1,54 @@
+asset_guid: 17120401245267671738
+asset_name: Sponza
+file_path: Sponza\glTF\Sponza.glb
+sub_meshes:
+  - mesh_index: 0
+    mesh_guid: 13384082399507076669
+  - mesh_index: 1
+    mesh_guid: 1752158655334596551
+  - mesh_index: 2
+    mesh_guid: 14286472315625327033
+  - mesh_index: 3
+    mesh_guid: 16829342921566344213
+  - mesh_index: 4
+    mesh_guid: 10237757204899992045
+  - mesh_index: 5
+    mesh_guid: 17864178263461655726
+  - mesh_index: 6
+    mesh_guid: 10931049534357178936
+  - mesh_index: 7
+    mesh_guid: 14821572874569560670
+  - mesh_index: 8
+    mesh_guid: 5905040035939465008
+  - mesh_index: 9
+    mesh_guid: 9525253502556890548
+  - mesh_index: 10
+    mesh_guid: 1704794586560247900
+  - mesh_index: 11
+    mesh_guid: 163935193023754658
+  - mesh_index: 12
+    mesh_guid: 13918013604662304128
+  - mesh_index: 13
+    mesh_guid: 2108257845249739454
+  - mesh_index: 14
+    mesh_guid: 12351981148327980670
+  - mesh_index: 15
+    mesh_guid: 7451652950810121615
+  - mesh_index: 16
+    mesh_guid: 8462536631935019572
+  - mesh_index: 17
+    mesh_guid: 2645019657397531832
+  - mesh_index: 18
+    mesh_guid: 3941170358127929110
+  - mesh_index: 19
+    mesh_guid: 5214087791877454925
+  - mesh_index: 20
+    mesh_guid: 16350649656336616219
+  - mesh_index: 21
+    mesh_guid: 8251481986698227614
+  - mesh_index: 22
+    mesh_guid: 5513730470587256030
+  - mesh_index: 23
+    mesh_guid: 9471418433403912228
+  - mesh_index: 24
+    mesh_guid: 17319063740470849743

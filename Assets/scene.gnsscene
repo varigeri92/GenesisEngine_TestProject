@@ -1,0 +1,1489 @@
+serializer_version: 0.0.0
+scene_name: Sponza_Scene
+scene_data:
+  - entity_name: sponza
+    entity_guid: 15418807610756010924
+    children:
+      - 6487619275602046290
+      - 10799235190540173081
+      - 16739404199317236940
+      - 7815384622191159352
+      - 1253846175862345141
+      - 10777590537857949914
+      - 11537009536268630022
+      - 8011653876000585705
+      - 13124749901260079312
+      - 12029459420045808040
+      - 10958089045655218473
+      - 15988178665840372790
+      - 16761576453035017787
+      - 11630242289748223616
+      - 6462476292480259445
+      - 18429609532301077398
+      - 13237272425524193835
+      - 13638500369028308429
+      - 2293864868076651339
+      - 5174264797111199588
+      - 15774461458510174574
+      - 11561883864925203478
+      - 6551729416482304061
+      - 12961561163372999610
+      - 2756907712474433308
+    parent: 12507577274399429582
+    components:
+      - component_data:
+          cmp_name: entity::EntityComponent
+          cmp_type: 1580932765
+          cmp_fields:
+            - name: name
+              type: 10283618467285603348
+              offset: 8
+              field_value: sponza
+            - name: guid
+              type: 671912688476192120
+              offset: 48
+              field_value: 15418807610756010924
+            - name: active
+              type: 671907190918037511
+              offset: 56
+              field_value: true
+      - component_data:
+          cmp_name: entity::Transform
+          cmp_type: 3527496575
+          cmp_fields:
+            - name: position
+              type: 9637191525283713622
+              offset: 8
+              field_value: [0, 0, 0]
+            - name: rotation
+              type: 9637191525283713622
+              offset: 20
+              field_value: [0, 0, 0]
+            - name: scale
+              type: 9637191525283713622
+              offset: 32
+              field_value: [1, 1, 1]
+  - entity_name: Mesh_0-0
+    entity_guid: 6487619275602046290
+    children:
+      []
+    parent: 15418807610756010924
+    components:
+      - component_data:
+          cmp_name: entity::EntityComponent
+          cmp_type: 1580932765
+          cmp_fields:
+            - name: name
+              type: 10283618467285603348
+              offset: 8
+              field_value: Mesh_0-0
+            - name: guid
+              type: 671912688476192120
+              offset: 48
+              field_value: 6487619275602046290
+            - name: active
+              type: 671907190918037511
+              offset: 56
+              field_value: true
+      - component_data:
+          cmp_name: entity::Transform
+          cmp_type: 3527496575
+          cmp_fields:
+            - name: position
+              type: 9637191525283713622
+              offset: 8
+              field_value: [0, 0, 0]
+            - name: rotation
+              type: 9637191525283713622
+              offset: 20
+              field_value: [0, 0, 0]
+            - name: scale
+              type: 9637191525283713622
+              offset: 32
+              field_value: [1, 1, 1]
+      - component_data:
+          cmp_name: entity::MeshComponent
+          cmp_type: 1233837247
+          cmp_fields:
+            - name: mesh_ref
+              type: 671912688476192120
+              offset: 8
+              field_value: 10522560040924083834
+            - name: material_ref
+              type: 671912688476192120
+              offset: 16
+              field_value: 10907907039559352431
+  - entity_name: Mesh_0-1
+    entity_guid: 10799235190540173081
+    children:
+      []
+    parent: 15418807610756010924
+    components:
+      - component_data:
+          cmp_name: entity::EntityComponent
+          cmp_type: 1580932765
+          cmp_fields:
+            - name: name
+              type: 10283618467285603348
+              offset: 8
+              field_value: Mesh_0-1
+            - name: guid
+              type: 671912688476192120
+              offset: 48
+              field_value: 10799235190540173081
+            - name: active
+              type: 671907190918037511
+              offset: 56
+              field_value: true
+      - component_data:
+          cmp_name: entity::Transform
+          cmp_type: 3527496575
+          cmp_fields:
+            - name: position
+              type: 9637191525283713622
+              offset: 8
+              field_value: [0, 0, 0]
+            - name: rotation
+              type: 9637191525283713622
+              offset: 20
+              field_value: [0, 0, 0]
+            - name: scale
+              type: 9637191525283713622
+              offset: 32
+              field_value: [1, 1, 1]
+      - component_data:
+          cmp_name: entity::MeshComponent
+          cmp_type: 1233837247
+          cmp_fields:
+            - name: mesh_ref
+              type: 671912688476192120
+              offset: 8
+              field_value: 6669485457471015930
+            - name: material_ref
+              type: 671912688476192120
+              offset: 16
+              field_value: 15613080521298328917
+  - entity_name: Mesh_0-2
+    entity_guid: 16739404199317236940
+    children:
+      []
+    parent: 15418807610756010924
+    components:
+      - component_data:
+          cmp_name: entity::EntityComponent
+          cmp_type: 1580932765
+          cmp_fields:
+            - name: name
+              type: 10283618467285603348
+              offset: 8
+              field_value: Mesh_0-2
+            - name: guid
+              type: 671912688476192120
+              offset: 48
+              field_value: 16739404199317236940
+            - name: active
+              type: 671907190918037511
+              offset: 56
+              field_value: true
+      - component_data:
+          cmp_name: entity::Transform
+          cmp_type: 3527496575
+          cmp_fields:
+            - name: position
+              type: 9637191525283713622
+              offset: 8
+              field_value: [0, 0, 0]
+            - name: rotation
+              type: 9637191525283713622
+              offset: 20
+              field_value: [0, 0, 0]
+            - name: scale
+              type: 9637191525283713622
+              offset: 32
+              field_value: [1, 1, 1]
+      - component_data:
+          cmp_name: entity::MeshComponent
+          cmp_type: 1233837247
+          cmp_fields:
+            - name: mesh_ref
+              type: 671912688476192120
+              offset: 8
+              field_value: 1467722161970299293
+            - name: material_ref
+              type: 671912688476192120
+              offset: 16
+              field_value: 3266096265078787686
+  - entity_name: Mesh_0-3
+    entity_guid: 7815384622191159352
+    children:
+      []
+    parent: 15418807610756010924
+    components:
+      - component_data:
+          cmp_name: entity::EntityComponent
+          cmp_type: 1580932765
+          cmp_fields:
+            - name: name
+              type: 10283618467285603348
+              offset: 8
+              field_value: Mesh_0-3
+            - name: guid
+              type: 671912688476192120
+              offset: 48
+              field_value: 7815384622191159352
+            - name: active
+              type: 671907190918037511
+              offset: 56
+              field_value: true
+      - component_data:
+          cmp_name: entity::Transform
+          cmp_type: 3527496575
+          cmp_fields:
+            - name: position
+              type: 9637191525283713622
+              offset: 8
+              field_value: [0, 0, 0]
+            - name: rotation
+              type: 9637191525283713622
+              offset: 20
+              field_value: [0, 0, 0]
+            - name: scale
+              type: 9637191525283713622
+              offset: 32
+              field_value: [1, 1, 1]
+      - component_data:
+          cmp_name: entity::MeshComponent
+          cmp_type: 1233837247
+          cmp_fields:
+            - name: mesh_ref
+              type: 671912688476192120
+              offset: 8
+              field_value: 12142828031745116179
+            - name: material_ref
+              type: 671912688476192120
+              offset: 16
+              field_value: 10138555210390524937
+  - entity_name: Mesh_0-4
+    entity_guid: 1253846175862345141
+    children:
+      []
+    parent: 15418807610756010924
+    components:
+      - component_data:
+          cmp_name: entity::EntityComponent
+          cmp_type: 1580932765
+          cmp_fields:
+            - name: name
+              type: 10283618467285603348
+              offset: 8
+              field_value: Mesh_0-4
+            - name: guid
+              type: 671912688476192120
+              offset: 48
+              field_value: 1253846175862345141
+            - name: active
+              type: 671907190918037511
+              offset: 56
+              field_value: true
+      - component_data:
+          cmp_name: entity::Transform
+          cmp_type: 3527496575
+          cmp_fields:
+            - name: position
+              type: 9637191525283713622
+              offset: 8
+              field_value: [0, 0, 0]
+            - name: rotation
+              type: 9637191525283713622
+              offset: 20
+              field_value: [0, 0, 0]
+            - name: scale
+              type: 9637191525283713622
+              offset: 32
+              field_value: [1, 1, 1]
+      - component_data:
+          cmp_name: entity::MeshComponent
+          cmp_type: 1233837247
+          cmp_fields:
+            - name: mesh_ref
+              type: 671912688476192120
+              offset: 8
+              field_value: 8368820075137876477
+            - name: material_ref
+              type: 671912688476192120
+              offset: 16
+              field_value: 3299157470468870095
+  - entity_name: Mesh_0-5
+    entity_guid: 10777590537857949914
+    children:
+      []
+    parent: 15418807610756010924
+    components:
+      - component_data:
+          cmp_name: entity::EntityComponent
+          cmp_type: 1580932765
+          cmp_fields:
+            - name: name
+              type: 10283618467285603348
+              offset: 8
+              field_value: Mesh_0-5
+            - name: guid
+              type: 671912688476192120
+              offset: 48
+              field_value: 10777590537857949914
+            - name: active
+              type: 671907190918037511
+              offset: 56
+              field_value: true
+      - component_data:
+          cmp_name: entity::Transform
+          cmp_type: 3527496575
+          cmp_fields:
+            - name: position
+              type: 9637191525283713622
+              offset: 8
+              field_value: [0, 0, 0]
+            - name: rotation
+              type: 9637191525283713622
+              offset: 20
+              field_value: [0, 0, 0]
+            - name: scale
+              type: 9637191525283713622
+              offset: 32
+              field_value: [1, 1, 1]
+      - component_data:
+          cmp_name: entity::MeshComponent
+          cmp_type: 1233837247
+          cmp_fields:
+            - name: mesh_ref
+              type: 671912688476192120
+              offset: 8
+              field_value: 16046976763794351635
+            - name: material_ref
+              type: 671912688476192120
+              offset: 16
+              field_value: 4313253058802764859
+  - entity_name: Mesh_0-6
+    entity_guid: 11537009536268630022
+    children:
+      []
+    parent: 15418807610756010924
+    components:
+      - component_data:
+          cmp_name: entity::EntityComponent
+          cmp_type: 1580932765
+          cmp_fields:
+            - name: name
+              type: 10283618467285603348
+              offset: 8
+              field_value: Mesh_0-6
+            - name: guid
+              type: 671912688476192120
+              offset: 48
+              field_value: 11537009536268630022
+            - name: active
+              type: 671907190918037511
+              offset: 56
+              field_value: true
+      - component_data:
+          cmp_name: entity::Transform
+          cmp_type: 3527496575
+          cmp_fields:
+            - name: position
+              type: 9637191525283713622
+              offset: 8
+              field_value: [0, 0, 0]
+            - name: rotation
+              type: 9637191525283713622
+              offset: 20
+              field_value: [0, -0, 0]
+            - name: scale
+              type: 9637191525283713622
+              offset: 32
+              field_value: [1, 1, 1]
+      - component_data:
+          cmp_name: entity::MeshComponent
+          cmp_type: 1233837247
+          cmp_fields:
+            - name: mesh_ref
+              type: 671912688476192120
+              offset: 8
+              field_value: 18216652176101131910
+            - name: material_ref
+              type: 671912688476192120
+              offset: 16
+              field_value: 11341328571252204961
+  - entity_name: Mesh_0-7
+    entity_guid: 8011653876000585705
+    children:
+      []
+    parent: 15418807610756010924
+    components:
+      - component_data:
+          cmp_name: entity::EntityComponent
+          cmp_type: 1580932765
+          cmp_fields:
+            - name: name
+              type: 10283618467285603348
+              offset: 8
+              field_value: Mesh_0-7
+            - name: guid
+              type: 671912688476192120
+              offset: 48
+              field_value: 8011653876000585705
+            - name: active
+              type: 671907190918037511
+              offset: 56
+              field_value: true
+      - component_data:
+          cmp_name: entity::Transform
+          cmp_type: 3527496575
+          cmp_fields:
+            - name: position
+              type: 9637191525283713622
+              offset: 8
+              field_value: [0, 0, 0]
+            - name: rotation
+              type: 9637191525283713622
+              offset: 20
+              field_value: [0, 0, 0]
+            - name: scale
+              type: 9637191525283713622
+              offset: 32
+              field_value: [1, 1, 1]
+      - component_data:
+          cmp_name: entity::MeshComponent
+          cmp_type: 1233837247
+          cmp_fields:
+            - name: mesh_ref
+              type: 671912688476192120
+              offset: 8
+              field_value: 12767122556579442219
+            - name: material_ref
+              type: 671912688476192120
+              offset: 16
+              field_value: 17858248970376871559
+  - entity_name: Mesh_0-8
+    entity_guid: 13124749901260079312
+    children:
+      []
+    parent: 15418807610756010924
+    components:
+      - component_data:
+          cmp_name: entity::EntityComponent
+          cmp_type: 1580932765
+          cmp_fields:
+            - name: name
+              type: 10283618467285603348
+              offset: 8
+              field_value: Mesh_0-8
+            - name: guid
+              type: 671912688476192120
+              offset: 48
+              field_value: 13124749901260079312
+            - name: active
+              type: 671907190918037511
+              offset: 56
+              field_value: true
+      - component_data:
+          cmp_name: entity::Transform
+          cmp_type: 3527496575
+          cmp_fields:
+            - name: position
+              type: 9637191525283713622
+              offset: 8
+              field_value: [0, 0, 0]
+            - name: rotation
+              type: 9637191525283713622
+              offset: 20
+              field_value: [0, 0, 0]
+            - name: scale
+              type: 9637191525283713622
+              offset: 32
+              field_value: [1, 1, 1]
+      - component_data:
+          cmp_name: entity::MeshComponent
+          cmp_type: 1233837247
+          cmp_fields:
+            - name: mesh_ref
+              type: 671912688476192120
+              offset: 8
+              field_value: 2664842349188670191
+            - name: material_ref
+              type: 671912688476192120
+              offset: 16
+              field_value: 5376828372125750277
+  - entity_name: Mesh_0-9
+    entity_guid: 12029459420045808040
+    children:
+      []
+    parent: 15418807610756010924
+    components:
+      - component_data:
+          cmp_name: entity::EntityComponent
+          cmp_type: 1580932765
+          cmp_fields:
+            - name: name
+              type: 10283618467285603348
+              offset: 8
+              field_value: Mesh_0-9
+            - name: guid
+              type: 671912688476192120
+              offset: 48
+              field_value: 12029459420045808040
+            - name: active
+              type: 671907190918037511
+              offset: 56
+              field_value: true
+      - component_data:
+          cmp_name: entity::Transform
+          cmp_type: 3527496575
+          cmp_fields:
+            - name: position
+              type: 9637191525283713622
+              offset: 8
+              field_value: [0, 0, 0]
+            - name: rotation
+              type: 9637191525283713622
+              offset: 20
+              field_value: [0, 0, 0]
+            - name: scale
+              type: 9637191525283713622
+              offset: 32
+              field_value: [1, 1, 1]
+      - component_data:
+          cmp_name: entity::MeshComponent
+          cmp_type: 1233837247
+          cmp_fields:
+            - name: mesh_ref
+              type: 671912688476192120
+              offset: 8
+              field_value: 9231442115647138507
+            - name: material_ref
+              type: 671912688476192120
+              offset: 16
+              field_value: 5068990423634870594
+  - entity_name: Mesh_0-10
+    entity_guid: 10958089045655218473
+    children:
+      []
+    parent: 15418807610756010924
+    components:
+      - component_data:
+          cmp_name: entity::EntityComponent
+          cmp_type: 1580932765
+          cmp_fields:
+            - name: name
+              type: 10283618467285603348
+              offset: 8
+              field_value: Mesh_0-10
+            - name: guid
+              type: 671912688476192120
+              offset: 48
+              field_value: 10958089045655218473
+            - name: active
+              type: 671907190918037511
+              offset: 56
+              field_value: true
+      - component_data:
+          cmp_name: entity::Transform
+          cmp_type: 3527496575
+          cmp_fields:
+            - name: position
+              type: 9637191525283713622
+              offset: 8
+              field_value: [0, 0, 0]
+            - name: rotation
+              type: 9637191525283713622
+              offset: 20
+              field_value: [0, 0, 0]
+            - name: scale
+              type: 9637191525283713622
+              offset: 32
+              field_value: [1, 1, 1]
+      - component_data:
+          cmp_name: entity::MeshComponent
+          cmp_type: 1233837247
+          cmp_fields:
+            - name: mesh_ref
+              type: 671912688476192120
+              offset: 8
+              field_value: 2357251500469950358
+            - name: material_ref
+              type: 671912688476192120
+              offset: 16
+              field_value: 7375751670425669579
+  - entity_name: Mesh_0-11
+    entity_guid: 15988178665840372790
+    children:
+      []
+    parent: 15418807610756010924
+    components:
+      - component_data:
+          cmp_name: entity::EntityComponent
+          cmp_type: 1580932765
+          cmp_fields:
+            - name: name
+              type: 10283618467285603348
+              offset: 8
+              field_value: Mesh_0-11
+            - name: guid
+              type: 671912688476192120
+              offset: 48
+              field_value: 15988178665840372790
+            - name: active
+              type: 671907190918037511
+              offset: 56
+              field_value: true
+      - component_data:
+          cmp_name: entity::Transform
+          cmp_type: 3527496575
+          cmp_fields:
+            - name: position
+              type: 9637191525283713622
+              offset: 8
+              field_value: [0, 0, 0]
+            - name: rotation
+              type: 9637191525283713622
+              offset: 20
+              field_value: [0, 0, 0]
+            - name: scale
+              type: 9637191525283713622
+              offset: 32
+              field_value: [1, 1, 1]
+      - component_data:
+          cmp_name: entity::MeshComponent
+          cmp_type: 1233837247
+          cmp_fields:
+            - name: mesh_ref
+              type: 671912688476192120
+              offset: 8
+              field_value: 16748683652368474768
+            - name: material_ref
+              type: 671912688476192120
+              offset: 16
+              field_value: 3348828805401971335
+  - entity_name: Mesh_0-12
+    entity_guid: 16761576453035017787
+    children:
+      []
+    parent: 15418807610756010924
+    components:
+      - component_data:
+          cmp_name: entity::EntityComponent
+          cmp_type: 1580932765
+          cmp_fields:
+            - name: name
+              type: 10283618467285603348
+              offset: 8
+              field_value: Mesh_0-12
+            - name: guid
+              type: 671912688476192120
+              offset: 48
+              field_value: 16761576453035017787
+            - name: active
+              type: 671907190918037511
+              offset: 56
+              field_value: true
+      - component_data:
+          cmp_name: entity::Transform
+          cmp_type: 3527496575
+          cmp_fields:
+            - name: position
+              type: 9637191525283713622
+              offset: 8
+              field_value: [0, 0, 0]
+            - name: rotation
+              type: 9637191525283713622
+              offset: 20
+              field_value: [0, 0, 0]
+            - name: scale
+              type: 9637191525283713622
+              offset: 32
+              field_value: [1, 1, 1]
+      - component_data:
+          cmp_name: entity::MeshComponent
+          cmp_type: 1233837247
+          cmp_fields:
+            - name: mesh_ref
+              type: 671912688476192120
+              offset: 8
+              field_value: 14412029129801838195
+            - name: material_ref
+              type: 671912688476192120
+              offset: 16
+              field_value: 1557100303760783682
+  - entity_name: Mesh_0-13
+    entity_guid: 11630242289748223616
+    children:
+      []
+    parent: 15418807610756010924
+    components:
+      - component_data:
+          cmp_name: entity::EntityComponent
+          cmp_type: 1580932765
+          cmp_fields:
+            - name: name
+              type: 10283618467285603348
+              offset: 8
+              field_value: Mesh_0-13
+            - name: guid
+              type: 671912688476192120
+              offset: 48
+              field_value: 11630242289748223616
+            - name: active
+              type: 671907190918037511
+              offset: 56
+              field_value: true
+      - component_data:
+          cmp_name: entity::Transform
+          cmp_type: 3527496575
+          cmp_fields:
+            - name: position
+              type: 9637191525283713622
+              offset: 8
+              field_value: [0, 0, 0]
+            - name: rotation
+              type: 9637191525283713622
+              offset: 20
+              field_value: [0, 0, 0]
+            - name: scale
+              type: 9637191525283713622
+              offset: 32
+              field_value: [1, 1, 1]
+      - component_data:
+          cmp_name: entity::MeshComponent
+          cmp_type: 1233837247
+          cmp_fields:
+            - name: mesh_ref
+              type: 671912688476192120
+              offset: 8
+              field_value: 3175928751409915344
+            - name: material_ref
+              type: 671912688476192120
+              offset: 16
+              field_value: 14471934422684021886
+  - entity_name: Mesh_0-14
+    entity_guid: 6462476292480259445
+    children:
+      []
+    parent: 15418807610756010924
+    components:
+      - component_data:
+          cmp_name: entity::EntityComponent
+          cmp_type: 1580932765
+          cmp_fields:
+            - name: name
+              type: 10283618467285603348
+              offset: 8
+              field_value: Mesh_0-14
+            - name: guid
+              type: 671912688476192120
+              offset: 48
+              field_value: 6462476292480259445
+            - name: active
+              type: 671907190918037511
+              offset: 56
+              field_value: true
+      - component_data:
+          cmp_name: entity::Transform
+          cmp_type: 3527496575
+          cmp_fields:
+            - name: position
+              type: 9637191525283713622
+              offset: 8
+              field_value: [0, 0, 0]
+            - name: rotation
+              type: 9637191525283713622
+              offset: 20
+              field_value: [0, 0, 0]
+            - name: scale
+              type: 9637191525283713622
+              offset: 32
+              field_value: [1, 1, 1]
+      - component_data:
+          cmp_name: entity::MeshComponent
+          cmp_type: 1233837247
+          cmp_fields:
+            - name: mesh_ref
+              type: 671912688476192120
+              offset: 8
+              field_value: 717915485845010638
+            - name: material_ref
+              type: 671912688476192120
+              offset: 16
+              field_value: 8169620301887339842
+  - entity_name: Mesh_0-15
+    entity_guid: 18429609532301077398
+    children:
+      []
+    parent: 15418807610756010924
+    components:
+      - component_data:
+          cmp_name: entity::EntityComponent
+          cmp_type: 1580932765
+          cmp_fields:
+            - name: name
+              type: 10283618467285603348
+              offset: 8
+              field_value: Mesh_0-15
+            - name: guid
+              type: 671912688476192120
+              offset: 48
+              field_value: 18429609532301077398
+            - name: active
+              type: 671907190918037511
+              offset: 56
+              field_value: true
+      - component_data:
+          cmp_name: entity::Transform
+          cmp_type: 3527496575
+          cmp_fields:
+            - name: position
+              type: 9637191525283713622
+              offset: 8
+              field_value: [0, 0, 0]
+            - name: rotation
+              type: 9637191525283713622
+              offset: 20
+              field_value: [0, 0, 0]
+            - name: scale
+              type: 9637191525283713622
+              offset: 32
+              field_value: [1, 1, 1]
+      - component_data:
+          cmp_name: entity::MeshComponent
+          cmp_type: 1233837247
+          cmp_fields:
+            - name: mesh_ref
+              type: 671912688476192120
+              offset: 8
+              field_value: 6391593307633273164
+            - name: material_ref
+              type: 671912688476192120
+              offset: 16
+              field_value: 4990324533455061876
+  - entity_name: Mesh_0-16
+    entity_guid: 13237272425524193835
+    children:
+      []
+    parent: 15418807610756010924
+    components:
+      - component_data:
+          cmp_name: entity::EntityComponent
+          cmp_type: 1580932765
+          cmp_fields:
+            - name: name
+              type: 10283618467285603348
+              offset: 8
+              field_value: Mesh_0-16
+            - name: guid
+              type: 671912688476192120
+              offset: 48
+              field_value: 13237272425524193835
+            - name: active
+              type: 671907190918037511
+              offset: 56
+              field_value: true
+      - component_data:
+          cmp_name: entity::Transform
+          cmp_type: 3527496575
+          cmp_fields:
+            - name: position
+              type: 9637191525283713622
+              offset: 8
+              field_value: [0, 0, 0]
+            - name: rotation
+              type: 9637191525283713622
+              offset: 20
+              field_value: [0, 0, 0]
+            - name: scale
+              type: 9637191525283713622
+              offset: 32
+              field_value: [1, 1, 1]
+      - component_data:
+          cmp_name: entity::MeshComponent
+          cmp_type: 1233837247
+          cmp_fields:
+            - name: mesh_ref
+              type: 671912688476192120
+              offset: 8
+              field_value: 15666264437008609158
+            - name: material_ref
+              type: 671912688476192120
+              offset: 16
+              field_value: 9967647156673566771
+  - entity_name: Mesh_0-17
+    entity_guid: 13638500369028308429
+    children:
+      []
+    parent: 15418807610756010924
+    components:
+      - component_data:
+          cmp_name: entity::EntityComponent
+          cmp_type: 1580932765
+          cmp_fields:
+            - name: name
+              type: 10283618467285603348
+              offset: 8
+              field_value: Mesh_0-17
+            - name: guid
+              type: 671912688476192120
+              offset: 48
+              field_value: 13638500369028308429
+            - name: active
+              type: 671907190918037511
+              offset: 56
+              field_value: true
+      - component_data:
+          cmp_name: entity::Transform
+          cmp_type: 3527496575
+          cmp_fields:
+            - name: position
+              type: 9637191525283713622
+              offset: 8
+              field_value: [0, 0, 0]
+            - name: rotation
+              type: 9637191525283713622
+              offset: 20
+              field_value: [0, 0, 0]
+            - name: scale
+              type: 9637191525283713622
+              offset: 32
+              field_value: [1, 1, 1]
+      - component_data:
+          cmp_name: entity::MeshComponent
+          cmp_type: 1233837247
+          cmp_fields:
+            - name: mesh_ref
+              type: 671912688476192120
+              offset: 8
+              field_value: 4502435689721699753
+            - name: material_ref
+              type: 671912688476192120
+              offset: 16
+              field_value: 14543532791231305710
+  - entity_name: Mesh_0-18
+    entity_guid: 2293864868076651339
+    children:
+      []
+    parent: 15418807610756010924
+    components:
+      - component_data:
+          cmp_name: entity::EntityComponent
+          cmp_type: 1580932765
+          cmp_fields:
+            - name: name
+              type: 10283618467285603348
+              offset: 8
+              field_value: Mesh_0-18
+            - name: guid
+              type: 671912688476192120
+              offset: 48
+              field_value: 2293864868076651339
+            - name: active
+              type: 671907190918037511
+              offset: 56
+              field_value: true
+      - component_data:
+          cmp_name: entity::Transform
+          cmp_type: 3527496575
+          cmp_fields:
+            - name: position
+              type: 9637191525283713622
+              offset: 8
+              field_value: [0, 0, 0]
+            - name: rotation
+              type: 9637191525283713622
+              offset: 20
+              field_value: [0, 0, 0]
+            - name: scale
+              type: 9637191525283713622
+              offset: 32
+              field_value: [1, 1, 1]
+      - component_data:
+          cmp_name: entity::MeshComponent
+          cmp_type: 1233837247
+          cmp_fields:
+            - name: mesh_ref
+              type: 671912688476192120
+              offset: 8
+              field_value: 1866064445198595283
+            - name: material_ref
+              type: 671912688476192120
+              offset: 16
+              field_value: 7336235051584673364
+  - entity_name: Mesh_0-19
+    entity_guid: 5174264797111199588
+    children:
+      []
+    parent: 15418807610756010924
+    components:
+      - component_data:
+          cmp_name: entity::EntityComponent
+          cmp_type: 1580932765
+          cmp_fields:
+            - name: name
+              type: 10283618467285603348
+              offset: 8
+              field_value: Mesh_0-19
+            - name: guid
+              type: 671912688476192120
+              offset: 48
+              field_value: 5174264797111199588
+            - name: active
+              type: 671907190918037511
+              offset: 56
+              field_value: true
+      - component_data:
+          cmp_name: entity::Transform
+          cmp_type: 3527496575
+          cmp_fields:
+            - name: position
+              type: 9637191525283713622
+              offset: 8
+              field_value: [0, 0, 0]
+            - name: rotation
+              type: 9637191525283713622
+              offset: 20
+              field_value: [0, 0, 0]
+            - name: scale
+              type: 9637191525283713622
+              offset: 32
+              field_value: [1, 1, 1]
+      - component_data:
+          cmp_name: entity::MeshComponent
+          cmp_type: 1233837247
+          cmp_fields:
+            - name: mesh_ref
+              type: 671912688476192120
+              offset: 8
+              field_value: 642280132811826699
+            - name: material_ref
+              type: 671912688476192120
+              offset: 16
+              field_value: 8110867136809147176
+  - entity_name: Mesh_0-20
+    entity_guid: 15774461458510174574
+    children:
+      []
+    parent: 15418807610756010924
+    components:
+      - component_data:
+          cmp_name: entity::EntityComponent
+          cmp_type: 1580932765
+          cmp_fields:
+            - name: name
+              type: 10283618467285603348
+              offset: 8
+              field_value: Mesh_0-20
+            - name: guid
+              type: 671912688476192120
+              offset: 48
+              field_value: 15774461458510174574
+            - name: active
+              type: 671907190918037511
+              offset: 56
+              field_value: true
+      - component_data:
+          cmp_name: entity::Transform
+          cmp_type: 3527496575
+          cmp_fields:
+            - name: position
+              type: 9637191525283713622
+              offset: 8
+              field_value: [0, 0, 0]
+            - name: rotation
+              type: 9637191525283713622
+              offset: 20
+              field_value: [0, 0, 0]
+            - name: scale
+              type: 9637191525283713622
+              offset: 32
+              field_value: [1, 1, 1]
+      - component_data:
+          cmp_name: entity::MeshComponent
+          cmp_type: 1233837247
+          cmp_fields:
+            - name: mesh_ref
+              type: 671912688476192120
+              offset: 8
+              field_value: 14198968136565122460
+            - name: material_ref
+              type: 671912688476192120
+              offset: 16
+              field_value: 11572779633375577333
+  - entity_name: Mesh_0-21
+    entity_guid: 11561883864925203478
+    children:
+      []
+    parent: 15418807610756010924
+    components:
+      - component_data:
+          cmp_name: entity::EntityComponent
+          cmp_type: 1580932765
+          cmp_fields:
+            - name: name
+              type: 10283618467285603348
+              offset: 8
+              field_value: Mesh_0-21
+            - name: guid
+              type: 671912688476192120
+              offset: 48
+              field_value: 11561883864925203478
+            - name: active
+              type: 671907190918037511
+              offset: 56
+              field_value: true
+      - component_data:
+          cmp_name: entity::Transform
+          cmp_type: 3527496575
+          cmp_fields:
+            - name: position
+              type: 9637191525283713622
+              offset: 8
+              field_value: [0, 0, 0]
+            - name: rotation
+              type: 9637191525283713622
+              offset: 20
+              field_value: [0, 0, 0]
+            - name: scale
+              type: 9637191525283713622
+              offset: 32
+              field_value: [1, 1, 1]
+      - component_data:
+          cmp_name: entity::MeshComponent
+          cmp_type: 1233837247
+          cmp_fields:
+            - name: mesh_ref
+              type: 671912688476192120
+              offset: 8
+              field_value: 12693410358478309907
+            - name: material_ref
+              type: 671912688476192120
+              offset: 16
+              field_value: 1347825119061747068
+  - entity_name: Mesh_0-22
+    entity_guid: 6551729416482304061
+    children:
+      []
+    parent: 15418807610756010924
+    components:
+      - component_data:
+          cmp_name: entity::EntityComponent
+          cmp_type: 1580932765
+          cmp_fields:
+            - name: name
+              type: 10283618467285603348
+              offset: 8
+              field_value: Mesh_0-22
+            - name: guid
+              type: 671912688476192120
+              offset: 48
+              field_value: 6551729416482304061
+            - name: active
+              type: 671907190918037511
+              offset: 56
+              field_value: true
+      - component_data:
+          cmp_name: entity::Transform
+          cmp_type: 3527496575
+          cmp_fields:
+            - name: position
+              type: 9637191525283713622
+              offset: 8
+              field_value: [0, 0, 0]
+            - name: rotation
+              type: 9637191525283713622
+              offset: 20
+              field_value: [0, 0, 0]
+            - name: scale
+              type: 9637191525283713622
+              offset: 32
+              field_value: [1, 1, 1]
+      - component_data:
+          cmp_name: entity::MeshComponent
+          cmp_type: 1233837247
+          cmp_fields:
+            - name: mesh_ref
+              type: 671912688476192120
+              offset: 8
+              field_value: 1553012441130292592
+            - name: material_ref
+              type: 671912688476192120
+              offset: 16
+              field_value: 10826903404201242897
+  - entity_name: Mesh_0-23
+    entity_guid: 12961561163372999610
+    children:
+      []
+    parent: 15418807610756010924
+    components:
+      - component_data:
+          cmp_name: entity::EntityComponent
+          cmp_type: 1580932765
+          cmp_fields:
+            - name: name
+              type: 10283618467285603348
+              offset: 8
+              field_value: Mesh_0-23
+            - name: guid
+              type: 671912688476192120
+              offset: 48
+              field_value: 12961561163372999610
+            - name: active
+              type: 671907190918037511
+              offset: 56
+              field_value: true
+      - component_data:
+          cmp_name: entity::Transform
+          cmp_type: 3527496575
+          cmp_fields:
+            - name: position
+              type: 9637191525283713622
+              offset: 8
+              field_value: [0, 0, 0]
+            - name: rotation
+              type: 9637191525283713622
+              offset: 20
+              field_value: [0, 0, 0]
+            - name: scale
+              type: 9637191525283713622
+              offset: 32
+              field_value: [1, 1, 1]
+      - component_data:
+          cmp_name: entity::MeshComponent
+          cmp_type: 1233837247
+          cmp_fields:
+            - name: mesh_ref
+              type: 671912688476192120
+              offset: 8
+              field_value: 4454986502029809334
+            - name: material_ref
+              type: 671912688476192120
+              offset: 16
+              field_value: 6869881915589020821
+  - entity_name: Mesh_0-24
+    entity_guid: 2756907712474433308
+    children:
+      []
+    parent: 15418807610756010924
+    components:
+      - component_data:
+          cmp_name: entity::EntityComponent
+          cmp_type: 1580932765
+          cmp_fields:
+            - name: name
+              type: 10283618467285603348
+              offset: 8
+              field_value: Mesh_0-24
+            - name: guid
+              type: 671912688476192120
+              offset: 48
+              field_value: 2756907712474433308
+            - name: active
+              type: 671907190918037511
+              offset: 56
+              field_value: true
+      - component_data:
+          cmp_name: entity::Transform
+          cmp_type: 3527496575
+          cmp_fields:
+            - name: position
+              type: 9637191525283713622
+              offset: 8
+              field_value: [0, 0, 0]
+            - name: rotation
+              type: 9637191525283713622
+              offset: 20
+              field_value: [0, 0, 0]
+            - name: scale
+              type: 9637191525283713622
+              offset: 32
+              field_value: [1, 1, 1]
+      - component_data:
+          cmp_name: entity::MeshComponent
+          cmp_type: 1233837247
+          cmp_fields:
+            - name: mesh_ref
+              type: 671912688476192120
+              offset: 8
+              field_value: 1553401760442793689
+            - name: material_ref
+              type: 671912688476192120
+              offset: 16
+              field_value: 4164866547241756000
+  - entity_name: Point Light_0
+    entity_guid: 9927806603784375178
+    children:
+      []
+    parent: 12507577274399429582
+    components:
+      - component_data:
+          cmp_name: entity::EntityComponent
+          cmp_type: 1580932765
+          cmp_fields:
+            - name: name
+              type: 10283618467285603348
+              offset: 8
+              field_value: Point Light_0
+            - name: guid
+              type: 671912688476192120
+              offset: 48
+              field_value: 9927806603784375178
+            - name: active
+              type: 671907190918037511
+              offset: 56
+              field_value: true
+      - component_data:
+          cmp_name: entity::Transform
+          cmp_type: 3527496575
+          cmp_fields:
+            - name: position
+              type: 9637191525283713622
+              offset: 8
+              field_value: [0, 1.25, 0]
+            - name: rotation
+              type: 9637191525283713622
+              offset: 20
+              field_value: [0, 0, 0]
+            - name: scale
+              type: 9637191525283713622
+              offset: 32
+              field_value: [1, 1, 1]
+      - component_data:
+          cmp_name: rendering::PointLightComponent
+          cmp_type: 1548584043
+          cmp_fields:
+            - name: radius
+              type: 12638226781420530164
+              offset: 8
+              field_value: true
+            - name: intensity
+              type: 12638226781420530164
+              offset: 12
+              field_value: true
+      - component_data:
+          cmp_name: rendering::ColorComponent
+          cmp_type: 3008909028
+          cmp_fields:
+            - name: color
+              type: 17170695514688019119
+              offset: 8
+              field_value: [1, 1, 1, 1]
+  - entity_name: Point Light_1
+    entity_guid: 7564613165201609324
+    children:
+      []
+    parent: 12507577274399429582
+    components:
+      - component_data:
+          cmp_name: entity::EntityComponent
+          cmp_type: 1580932765
+          cmp_fields:
+            - name: name
+              type: 10283618467285603348
+              offset: 8
+              field_value: Point Light_1
+            - name: guid
+              type: 671912688476192120
+              offset: 48
+              field_value: 7564613165201609324
+            - name: active
+              type: 671907190918037511
+              offset: 56
+              field_value: true
+      - component_data:
+          cmp_name: entity::Transform
+          cmp_type: 3527496575
+          cmp_fields:
+            - name: position
+              type: 9637191525283713622
+              offset: 8
+              field_value: [0, 1.25, 0]
+            - name: rotation
+              type: 9637191525283713622
+              offset: 20
+              field_value: [0, 0, 0]
+            - name: scale
+              type: 9637191525283713622
+              offset: 32
+              field_value: [1, 1, 1]
+      - component_data:
+          cmp_name: rendering::PointLightComponent
+          cmp_type: 1548584043
+          cmp_fields:
+            - name: radius
+              type: 12638226781420530164
+              offset: 8
+              field_value: true
+            - name: intensity
+              type: 12638226781420530164
+              offset: 12
+              field_value: true
+      - component_data:
+          cmp_name: rendering::ColorComponent
+          cmp_type: 3008909028
+          cmp_fields:
+            - name: color
+              type: 17170695514688019119
+              offset: 8
+              field_value: [1, 1, 1, 1]
+  - entity_name: Point Light_2
+    entity_guid: 4270300304906961383
+    children:
+      []
+    parent: 12507577274399429582
+    components:
+      - component_data:
+          cmp_name: entity::EntityComponent
+          cmp_type: 1580932765
+          cmp_fields:
+            - name: name
+              type: 10283618467285603348
+              offset: 8
+              field_value: Point Light_2
+            - name: guid
+              type: 671912688476192120
+              offset: 48
+              field_value: 4270300304906961383
+            - name: active
+              type: 671907190918037511
+              offset: 56
+              field_value: true
+      - component_data:
+          cmp_name: entity::Transform
+          cmp_type: 3527496575
+          cmp_fields:
+            - name: position
+              type: 9637191525283713622
+              offset: 8
+              field_value: [0, 1.25, 0]
+            - name: rotation
+              type: 9637191525283713622
+              offset: 20
+              field_value: [0, 0, 0]
+            - name: scale
+              type: 9637191525283713622
+              offset: 32
+              field_value: [1, 1, 1]
+      - component_data:
+          cmp_name: rendering::PointLightComponent
+          cmp_type: 1548584043
+          cmp_fields:
+            - name: radius
+              type: 12638226781420530164
+              offset: 8
+              field_value: true
+            - name: intensity
+              type: 12638226781420530164
+              offset: 12
+              field_value: true
+      - component_data:
+          cmp_name: rendering::ColorComponent
+          cmp_type: 3008909028
+          cmp_fields:
+            - name: color
+              type: 17170695514688019119
+              offset: 8
+              field_value: [1, 1, 1, 1]

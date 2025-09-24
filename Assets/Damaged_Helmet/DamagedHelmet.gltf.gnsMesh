@@ -1,0 +1,6 @@
+asset_guid: 12746558222394025649
+asset_name: DamagedHelmet
+file_path: Damaged_Helmet\DamagedHelmet.gltf
+sub_meshes:
+  - mesh_index: 0
+    mesh_guid: 5920935762396825503

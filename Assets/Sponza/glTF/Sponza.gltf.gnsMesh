@@ -1,0 +1,210 @@
+asset_guid: 12651942364007926443
+asset_name: Sponza
+file_path: Sponza\glTF\Sponza.gltf
+sub_meshes:
+  - mesh_index: 0
+    mesh_guid: 7504748670312858332
+  - mesh_index: 1
+    mesh_guid: 5194728187281106822
+  - mesh_index: 2
+    mesh_guid: 12720214108989290597
+  - mesh_index: 3
+    mesh_guid: 6213836288606316280
+  - mesh_index: 4
+    mesh_guid: 3553941819269799428
+  - mesh_index: 5
+    mesh_guid: 1636656898742517065
+  - mesh_index: 6
+    mesh_guid: 4600051019252150093
+  - mesh_index: 7
+    mesh_guid: 7043494107385484414
+  - mesh_index: 8
+    mesh_guid: 4338944219848757715
+  - mesh_index: 9
+    mesh_guid: 9100304663208061753
+  - mesh_index: 10
+    mesh_guid: 2118088490166222455
+  - mesh_index: 11
+    mesh_guid: 12826615354853658043
+  - mesh_index: 12
+    mesh_guid: 13459547012428096478
+  - mesh_index: 13
+    mesh_guid: 15327731012935261580
+  - mesh_index: 14
+    mesh_guid: 12253580290296383093
+  - mesh_index: 15
+    mesh_guid: 3836846967757767316
+  - mesh_index: 16
+    mesh_guid: 10411132588847307004
+  - mesh_index: 17
+    mesh_guid: 14492924285738869583
+  - mesh_index: 18
+    mesh_guid: 15578971112369288530
+  - mesh_index: 19
+    mesh_guid: 15584372429976487192
+  - mesh_index: 20
+    mesh_guid: 3444315929774984668
+  - mesh_index: 21
+    mesh_guid: 1811928544065037855
+  - mesh_index: 22
+    mesh_guid: 13054380409289513890
+  - mesh_index: 23
+    mesh_guid: 9655939191912231199
+  - mesh_index: 24
+    mesh_guid: 4245247337030506706
+  - mesh_index: 25
+    mesh_guid: 14043608487031317783
+  - mesh_index: 26
+    mesh_guid: 18174080946570044124
+  - mesh_index: 27
+    mesh_guid: 3430646689829991801
+  - mesh_index: 28
+    mesh_guid: 2835486445171069913
+  - mesh_index: 29
+    mesh_guid: 17536996581075492398
+  - mesh_index: 30
+    mesh_guid: 18066635471206262360
+  - mesh_index: 31
+    mesh_guid: 11061716794588613359
+  - mesh_index: 32
+    mesh_guid: 2412723112752607114
+  - mesh_index: 33
+    mesh_guid: 2591108242544441460
+  - mesh_index: 34
+    mesh_guid: 6429467348798808872
+  - mesh_index: 35
+    mesh_guid: 5000353667840404863
+  - mesh_index: 36
+    mesh_guid: 620128542421916250
+  - mesh_index: 37
+    mesh_guid: 11461461160159885911
+  - mesh_index: 38
+    mesh_guid: 18343899652155705402
+  - mesh_index: 39
+    mesh_guid: 13121962719368174175
+  - mesh_index: 40
+    mesh_guid: 9632992227377579015
+  - mesh_index: 41
+    mesh_guid: 15471483857043277698
+  - mesh_index: 42
+    mesh_guid: 2151671940312345597
+  - mesh_index: 43
+    mesh_guid: 7033134337969827503
+  - mesh_index: 44
+    mesh_guid: 15922926082565991324
+  - mesh_index: 45
+    mesh_guid: 17750696788075292882
+  - mesh_index: 46
+    mesh_guid: 11941389205018489233
+  - mesh_index: 47
+    mesh_guid: 18167169892502279178
+  - mesh_index: 48
+    mesh_guid: 17532112971980084164
+  - mesh_index: 49
+    mesh_guid: 16204200973787435582
+  - mesh_index: 50
+    mesh_guid: 8514577704362518264
+  - mesh_index: 51
+    mesh_guid: 17511018817611573065
+  - mesh_index: 52
+    mesh_guid: 13063605273488007846
+  - mesh_index: 53
+    mesh_guid: 10025830827721978773
+  - mesh_index: 54
+    mesh_guid: 286681950715602764
+  - mesh_index: 55
+    mesh_guid: 15622173168270029745
+  - mesh_index: 56
+    mesh_guid: 11978568954565790847
+  - mesh_index: 57
+    mesh_guid: 11445048942351193812
+  - mesh_index: 58
+    mesh_guid: 11389361841750353455
+  - mesh_index: 59
+    mesh_guid: 4865620951796189997
+  - mesh_index: 60
+    mesh_guid: 8581682097291970244
+  - mesh_index: 61
+    mesh_guid: 16224148969627982406
+  - mesh_index: 62
+    mesh_guid: 4703494515970716425
+  - mesh_index: 63
+    mesh_guid: 3173496143332188990
+  - mesh_index: 64
+    mesh_guid: 11915523390307396103
+  - mesh_index: 65
+    mesh_guid: 17165470239482254411
+  - mesh_index: 66
+    mesh_guid: 9280723300084135809
+  - mesh_index: 67
+    mesh_guid: 2560390955706925716
+  - mesh_index: 68
+    mesh_guid: 11558706277487029623
+  - mesh_index: 69
+    mesh_guid: 7255090234466877663
+  - mesh_index: 70
+    mesh_guid: 6569358116820142733
+  - mesh_index: 71
+    mesh_guid: 44785536473218529
+  - mesh_index: 72
+    mesh_guid: 9443426825288502553
+  - mesh_index: 73
+    mesh_guid: 8007185349972137561
+  - mesh_index: 74
+    mesh_guid: 13407354808303038354
+  - mesh_index: 75
+    mesh_guid: 18147956688268977406
+  - mesh_index: 76
+    mesh_guid: 7557876520230160758
+  - mesh_index: 77
+    mesh_guid: 8835926949559414484
+  - mesh_index: 78
+    mesh_guid: 17195659270097904211
+  - mesh_index: 79
+    mesh_guid: 17475700877213355087
+  - mesh_index: 80
+    mesh_guid: 12455710431081372237
+  - mesh_index: 81
+    mesh_guid: 16527372788091150049
+  - mesh_index: 82
+    mesh_guid: 11276122346088219892
+  - mesh_index: 83
+    mesh_guid: 12346910672360642745
+  - mesh_index: 84
+    mesh_guid: 3224449780087783858
+  - mesh_index: 85
+    mesh_guid: 17494857639416039602
+  - mesh_index: 86
+    mesh_guid: 1211974073797812271
+  - mesh_index: 87
+    mesh_guid: 1251324623689554124
+  - mesh_index: 88
+    mesh_guid: 12111403313308173563
+  - mesh_index: 89
+    mesh_guid: 10070810153648346409
+  - mesh_index: 90
+    mesh_guid: 16709697016094073052
+  - mesh_index: 91
+    mesh_guid: 4864197472057026882
+  - mesh_index: 92
+    mesh_guid: 8976812142506689793
+  - mesh_index: 93
+    mesh_guid: 16715968946537533636
+  - mesh_index: 94
+    mesh_guid: 17739404042413071199
+  - mesh_index: 95
+    mesh_guid: 12995392721733532185
+  - mesh_index: 96
+    mesh_guid: 9878198010618095308
+  - mesh_index: 97
+    mesh_guid: 232377914998009486
+  - mesh_index: 98
+    mesh_guid: 9822377574753667478
+  - mesh_index: 99
+    mesh_guid: 13909201148248715585
+  - mesh_index: 100
+    mesh_guid: 2566688786501611290
+  - mesh_index: 101
+    mesh_guid: 15085085232029072236
+  - mesh_index: 102
+    mesh_guid: 1001009155232144387

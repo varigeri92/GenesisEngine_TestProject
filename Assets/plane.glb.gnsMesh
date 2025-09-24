@@ -1,0 +1,6 @@
+asset_guid: 11525481295786142720
+asset_name: plane
+file_path: plane.glb
+sub_meshes:
+  - mesh_index: 0
+    mesh_guid: 12551352456983440980
